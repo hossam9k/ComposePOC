@@ -1,4 +1,4 @@
-package com.example.composepoc
+package com.example.composepoc.screens
 
 import androidx.compose.runtime.compositionLocalOf
 import androidx.compose.ui.unit.Dp

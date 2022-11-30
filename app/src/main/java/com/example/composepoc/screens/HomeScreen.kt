@@ -16,6 +16,8 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.example.composepoc.activitycompose.ComposeDetailsMainActivity
+import com.example.composepoc.screens.Dimensions
+import com.example.composepoc.screens.LocalSpacing
 import com.example.composepoc.ui.theme.POCTheme
 import com.valentinilk.shimmer.LocalShimmerTheme
 import com.valentinilk.shimmer.defaultShimmerTheme

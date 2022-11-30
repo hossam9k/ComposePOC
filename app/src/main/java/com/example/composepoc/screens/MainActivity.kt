@@ -1,4 +1,4 @@
-package com.example.composepoc
+package com.example.composepoc.screens
 
 import android.annotation.SuppressLint
 import android.os.Bundle
