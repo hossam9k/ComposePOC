@@ -14,6 +14,9 @@ import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
+import com.example.composepoc.DetailsScreen
+import com.example.composepoc.HomeScreen
+import com.example.composepoc.Route
 import com.example.composepoc.ui.theme.POCTheme
 
 class MainActivity : ComponentActivity() {
