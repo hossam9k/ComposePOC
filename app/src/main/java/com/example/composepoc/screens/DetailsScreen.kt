@@ -20,6 +20,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.viewinterop.AndroidView
+import com.example.composepoc.screens.Dimensions
+import com.example.composepoc.screens.LocalSpacing
 import com.example.composepoc.ui.theme.POCTheme
 
 @Composable
