@@ -158,7 +158,7 @@ fun ComposableDetailsPreview() {
 
 @Preview
 @Composable
-fun previewTest(){
+fun PreviewTest(){
             AndroidView(factory = {
                 val view = LayoutInflater.from(it).inflate(R.layout.my_view, null, false)
                 val button = view.findViewById<Button>(R.id.button2)
